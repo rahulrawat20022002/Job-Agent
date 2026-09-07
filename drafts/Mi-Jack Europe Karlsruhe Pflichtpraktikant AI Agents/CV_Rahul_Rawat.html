@@ -1,0 +1,72 @@
+<!DOCTYPE html><html lang="de"><head><meta charset="UTF-8"><title>Rahul Rawat, Pflichtpraktikant, Entwicklung von AI Agents</title><style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif; background: #ffffff; color: #1F2937; }
+.page { background: #ffffff; }
+
+.cv-tag { font-size: 10pt; color: #B8663F; letter-spacing: 6px; font-weight: 600; margin-bottom: 2mm; }
+h1.name { font-size: 22pt; font-weight: 700; color: #1F3A5F; letter-spacing: 0; margin-bottom: 1.5mm; }
+.role-tag { font-size: 11pt; color: #6C7A93; margin-bottom: 1.5mm; font-weight: 500; }
+.contact-line { font-size: 10pt; color: #1F2937; margin-bottom: 0.5mm; }
+.status-line { font-size: 10pt; color: #6C7A93; font-style: italic; margin-bottom: 2mm; }
+.header-rule { border-top: 1px solid #1F3A5F; margin-bottom: 3mm; }
+
+.section { margin-bottom: 2mm; page-break-inside: avoid; break-inside: avoid; }
+.section.section-long { page-break-inside: auto; break-inside: auto; }
+.section h2 { font-size: 11.5pt; color: #1F3A5F; font-weight: 700; margin-bottom: 1mm; text-transform: uppercase; padding-bottom: 0.5mm; border-bottom: 1px solid #B7C0CE; page-break-after: avoid; break-after: avoid; }
+.section h2 + .entry, .section h2 + p, .section h2 + .pd-line, .section h2 + .lang-line { page-break-before: avoid; break-before: avoid; }
+
+.pd-line { font-size: 10.5pt; margin-bottom: 0.4mm; color: #1F2937; }
+.pd-line .label { color: #1F3A5F; font-weight: 700; }
+
+.profile-text { font-size: 10.5pt; line-height: 1.35; text-align: justify; color: #1F2937; }
+
+.skills-line { font-size: 10.5pt; line-height: 1.4; color: #1F2937; }
+
+.entry { margin-bottom: 2mm; page-break-inside: avoid; break-inside: avoid; }
+.entry:last-child { margin-bottom: 0; }
+.entry .title-line { font-size: 11pt; font-weight: 700; color: #1F3A5F; margin-bottom: 0.3mm; }
+.entry .sub-line { font-size: 10pt; color: #6C7A93; margin-bottom: 1mm; font-style: italic; }
+.entry ul { list-style: none; padding: 0; margin-top: 0.5mm; }
+.entry ul li { font-size: 10.5pt; line-height: 1.3; text-align: justify; color: #1F2937; padding-left: 4mm; position: relative; margin-bottom: 0.5mm; }
+.entry ul li::before { content: "•"; position: absolute; left: 0; top: 0; color: #B8663F; font-weight: 700; }
+.entry .tech { font-size: 9.5pt; color: #6C7A93; font-style: italic; margin-top: 1mm; }
+.entry .tech .tech-label { font-weight: 700; font-style: normal; color: #B8663F; margin-right: 1mm; }
+.entry strong { color: #1F3A5F; font-weight: 700; }
+
+.simple-list { list-style: none; padding: 0; }
+.simple-list li { font-size: 10.5pt; line-height: 1.3; text-align: justify; color: #1F2937; padding-left: 4mm; position: relative; margin-bottom: 0.4mm; }
+.simple-list li::before { content: "•"; position: absolute; left: 0; top: 0; color: #B8663F; font-weight: 700; }
+.simple-list strong { color: #1F3A5F; font-weight: 700; }
+
+.lang-line { font-size: 10.5pt; margin-bottom: 0.4mm; color: #1F2937; }
+.lang-line .label { color: #1F3A5F; font-weight: 700; }
+
+/* 19 August 2026: Skills grouped into functional buckets. Rendered as a two
+   column table with the bucket label on the left and comma separated items
+   on the right, matching the Ojas KENNTNISSE layout. */
+.skills-table { width: 100%; border-collapse: collapse; }
+.skills-table td { font-size: 10.5pt; line-height: 1.35; padding: 0.4mm 0; vertical-align: top; color: #1F2937; }
+.skills-table td.skill-label { width: 42mm; color: #1F3A5F; font-weight: 700; padding-right: 4mm; }
+
+@page { size: A4; margin: 20mm 18mm 15mm 18mm; }
+</style></head><body><div class="page">
+<!-- CURRICULUM VITAE strip retired 11 August 2026 for ATS parseability -->
+<!-- PERSONAL DETAILS block retired 19 August 2026 per Ojas-comparison rewrite -->
+<!-- Job-title header line retired 19 August 2026; only cfg['tag'] pitch renders. -->
+<h1 class="name">Rahul Rawat</h1>
+<div class="role-tag">Masterstudent Data Science and Analytics | KI Agenten Evaluation und Testautomatisierung | Python + LangGraph + Vektordatenbanken</div>
+<div class="contact-line">Mannheim, Deutschland · 015563603340 · rahulrawat2r@gmail.com</div>
+<div class="contact-line">rah-portfolio.pages.dev · github.com/rahulrawat20022002 · linkedin.com/in/rahulrawat2r</div>
+<div class="status-line">Immatrikuliert bis April 2027 · Sofort verfügbar · Studentenvisum mit Arbeitserlaubnis</div>
+<div class="header-rule"></div>
+<section class="section"><h2>Profil</h2><p class="profile-text">Masterstudent der Data Science and Analytics an der SRH Heidelberg mit Sitz in Mannheim und praktischer Erfahrung in der systematischen Evaluation von KI Agenten auf Faktentreue, Konsistenz und Zuverlaessigkeit. Ich habe einen JudgeAgent gebaut, der Antworten automatisiert auf <strong>5 Dimension</strong>en bewertet und dabei bewusst auf einem anderen Modell laeuft als der Generator, um verzerrte Selbstbewertung auszuschliessen, und in einem produktiven Kredit Scoring System per SHAP gestuetzter Analyse eine verborgene Schwachstelle aufgedeckt, die einfache Metriken uebersehen haetten. Sicher in Python, LangGraph, Prompt Engineering und dem Aufbau reproduzierbarer Testfaelle fuer nicht deterministische KI Systeme.</p></section>
+<section class="section"><h2>Fähigkeiten</h2><table class="skills-table"><tr><td class="skill-label">KI und Agenten</td><td>LangGraph, RAG, LLM as Judge, Prompt Engineering, Ollama, spaCy, BM25</td></tr><tr><td class="skill-label">Daten und ML</td><td>Python, SQL, PySpark, scikit learn, CatBoost, XGBoost, LightGBM, Prophet, MICE</td></tr><tr><td class="skill-label">Cloud und Orchestrierung</td><td>GCP, BigQuery, Cloud Run, AWS, Docker, Apache Airflow, dbt, Git</td></tr><tr><td class="skill-label">Dashboards</td><td>Tableau, Looker Studio, Streamlit, Power BI</td></tr><tr><td class="skill-label">Web</td><td>React, module federation, Playwright, HTML5, CSS3</td></tr></table></section>
+<section class="section section-long"><h2>Berufserfahrung</h2><div class="entry"><div class="title-line">eRay GmbH</div><div class="sub-line">Data Scientist · Heidelberg · Okt 2025 bis Mrz 2026</div><ul><li>In einer <strong>6 monat</strong>igen Zusammenarbeit zwischen eRay GmbH und SRH Hochschule Heidelberg zur Prognose der Seewasserqualität über <strong>4 Ziel</strong> Indikatoren Chlorophyll a, Trübung, pH und gelösten Sauerstoff wurde eine end to end rekursive Zeitreihen Pipeline über einen <strong>40 Feature</strong> Raum mit einem Ziel Lag Set lag_1h, lag_24h, lag_3d, lag_7d, lag_roll_mean_24h und lag_roll_std_24h aufgebaut.</li><li>Es wurden <strong>6 Kandidaten</strong> direkt verglichen Ridge, Gradient Boosting, LightGBM, XGBoost, CatBoost und Prophet mit strikten Tree Einschränkungen max_depth 4 und learning_rate <strong>0.05</strong>, die Entscheidung fiel auf CatBoost MultiQuantile bei alpha <strong>0.05</strong>, <strong>0.5</strong> und <strong>0.85</strong>, was asymmetrische <strong>80 Prozent</strong> Vorhersageintervalle lieferte, die den 0 Boden umarmen und die oberen <strong>15 Prozent</strong> der Sommer Ghost Spikes abschneiden.</li><li>Die September Evaluation wurde belastbar gemacht mit einem <strong>3 Pass</strong> Outlier System pH verengt von <strong>0 bis 14</strong> auf <strong>7.0 bis 9.0</strong>, Oct und Nov Caps von <strong>15.0</strong> bei Chlorophyll a und <strong>50.0</strong> bei Trübung, ein rollender z-score bei z&gt;<strong>2.5</strong> über <strong>48 Stunden</strong>, und 5 spärliche Sensoren plus 3 zeitgleiche Proxies phycocyanin_abs, phycocyanin_abs_comp und toc wurden ausgeschlossen, was die ehrliche R quadrat Aufteilung von <strong>0.86</strong> bei gelöstem Sauerstoff und <strong>0.81</strong> bei pH offenlegte.</li></ul><div class="tech"><span class="tech-label">Technologies:</span>Python, CatBoost, Prophet, scikit learn, MICE</div></div><div class="entry"><div class="title-line">SS Engineers and Contractors</div><div class="sub-line">Junior Associate Software Developer · India · Aug 2023 bis Aug 2024</div><ul><li>Da SS Engineers and Contractors interne Data Dashboards, Analytics Plattformen und Mitarbeiter Portale betreibt, die unternehmensweit genutzt werden, mit dem Auftrag die Frontend Features zu bauen und zu pflegen, auf die die Teams im Alltag angewiesen sind, wurden React UI Komponenten in allen drei internen Produkten beigetragen, die während des gesamten Jahres in der Rolle im täglichen Einsatz der internen Teams blieben.</li></ul><div class="tech"><span class="tech-label">Technologies:</span>React, module federation, Playwright, AngularJS, HTML5, CSS3</div></div><div class="entry"><div class="title-line">SS Engineers and Contractors</div><div class="sub-line">Front End Developer Intern · India · Feb 2023 bis Juli 2023</div><ul><li>Während eines sechsmonatigen Praktikums bei SS Engineers and Contractors, mit dem Auftrag die Codebasis kennenzulernen und dann unter Senior Review kleinere UI Arbeiten in den internen Data Dashboards und Mitarbeiter Portalen zu übernehmen, wurde eng mit Senior Entwicklern durch die Codebasis gegangen und anschließend wurden fokussierte UI Komponenten wie Charts, Filter und Profilseiten geliefert, jede iterativ auf Basis von Code Review Feedback verbessert bis sie freigegeben war.</li></ul><div class="tech"><span class="tech-label">Technologies:</span>React, HTML5, CSS3, Git, code review workflow</div></div></section>
+<section class="section"><h2>Ausbildung</h2><div class="entry"><div class="title-line">M.Sc. Data Science and Analytics</div><div class="sub-line">SRH University of Applied Sciences Heidelberg, GPA 1.9 · Heidelberg · Apr 2025 bis heute</div></div><div class="entry"><div class="title-line">Bachelor of Technology in Computer Science</div><div class="sub-line">GL Bajaj Institute of Technology and Management, CGPA 7.3 of 10 · Greater Noida, India · 2019 to 2023</div></div></section>
+<section class="section section-long"><h2>Persönliche Projekte</h2><div class="entry"><div class="title-line">Multi Agent RAG mit LLM as Judge und mehrsprachiger EN und DE Unterstützung</div><div class="sub-line">2025</div><ul><li>Für ein rein englisches Hybrid RAG Policy Analysesystem mit BM25 und dichter Vektorsuche über einen <strong>14 Dokumente</strong> Policy Korpus, das deutschsprachige Nutzer nicht bedienen konnte, mit dem Auftrag mehrsprachige Unterstützung ohne Korpus Duplizierung hinzuzufügen, wurden Embeddings und Retrieval auf einen paraphrase multilingual MiniLM L12 v2 gemeinsamen Vektorraum migriert, sodass eine deutsche Anfrage englische Quellen abruft und end to end auf Deutsch beantwortet wird.</li><li>Da jeder Agent im Graph erneut Spracherkennung ausführte und inkonsistente Ausgabesprachen produzierte, mit dem Auftrag eine zentrale Wahrheitsquelle zu schaffen, wurde ein LanguageAgent gebaut, der geseedete Spracherkennung mit einem Confidence Floor zentralisiert, die Ausgabesprache Direktive an jeden nachgelagerten Agent weiterreicht und Preprocessing an sprachpassende spaCy Pipelines mit einem leeren Multilingual Fallback routet und die Sprache pro Chunk protokolliert, sodass Retrieval und Evaluation nach Sprache geschnitten werden können.</li></ul><div class="tech"><span class="tech-label">Technologies:</span>Python, LangGraph Multi Agent, Ollama mit Mistral 7B und Qwen2.5 14B, Pinecone, paraphrase multilingual MiniLM L12 v2, spaCy, BM25</div></div></section>
+
+<section class="section"><h2>Zertifikate</h2><ul class="simple-list"><li>NVIDIA: Building LLM Applications With Prompt Engineering, ausgestellt im November 2025.</li><li>AWS Academy Graduate: AWS Academy Cloud Foundations, ausgestellt im Juli 2025.</li><li>Google Data Analytics: Foundations, Data, Data, Everywhere, ausgestellt im April 2025 auf Coursera.</li></ul></section>
+<section class="section"><h2>Auszeichnungen</h2><ul class="simple-list"><li>USAII Global AI Hackathon 2026: Finalist auf Graduate Level, ausgezeichnet vom United States Artificial Intelligence Institute für Innovation, technische Kreativität und angewandte KI an realen Herausforderungen.</li></ul></section>
+<section class="section"><h2>Sprachen</h2><div class="lang-line"><span class="label">Englisch:</span> Fließend, schriftlich und mündlich</div><div class="lang-line"><span class="label">Deutsch:</span> B1, laufend</div></section>
+</div></body></html>
