@@ -168,13 +168,13 @@ date,company,role,location,source,status,draft_path
 8/25/26,Fraunhofer-Institut fuer Produktionstechnologie IPT,"Bachelor or Masterarbeit, Deep Learning und Machine Learning in der Produktion, Kennziffer 8382",Aachen,Company Page,applied,drafts/Fraunhofer IPT Aachen Masterarbeit Deep Learning Machine Learning Produktion/
 8/25/26,Fraunhofer-Institut fuer Produktionstechnik und Automatisierung IPA,"Studien or Abschlussarbeit, Prozessentwicklung fuer nachhaltigen Binder Jetting 3D Druck, Kennziffer 85106",Stuttgart,Company Page,rejected,drafts/Fraunhofer IPA Stuttgart Abschlussarbeit Binder Jetting 3D Druck/
 8/25/26,Fraunhofer-Institut fuer Produktionstechnik und Automatisierung IPA,"Abschlussarbeit, Bewertungsmatrix fuer eine modulare On Demand Produktion von ATMP im Weltraum",Stuttgart,Company Page,applied,drafts/Fraunhofer IPA Stuttgart Abschlussarbeit Bewertungsmatrix ATMP Weltraum/
-8/25/26,"Fraunhofer-Institut fuer Optronik, Systemtechnik und Bildauswertung IOSB","Abschlussarbeit, Training Data Anonymization for Object Detection and Pose Estimation, Kennziffer 85446",Karlsruhe,Company Page,rejected,drafts/Fraunhofer IOSB Karlsruhe Abschlussarbeit Training Data Anonymization/
+8/25/26,"Fraunhofer-Institut fuer Optronik, Systemtechnik und Bildauswertung IOSB","Abschlussarbeit, Training Data Anonymization for Object Detection and Pose Estimation, Kennziffer 85446",Karlsruhe,Company Page,applied,drafts/Fraunhofer IOSB Karlsruhe Abschlussarbeit Training Data Anonymization/
 8/25/26,Fraunhofer-Institut fuer Sichere Informationstechnologie SIT,"Masterarbeit, Modellierungsansaetze und Loss Design fuer praezise Alterschaetzung, Kennziffer 82686",Darmstadt,Company Page,applied,drafts/Fraunhofer SIT Darmstadt Masterarbeit Alterschaetzung Loss Design/
 8/25/26,dmTECH GmbH,"Werkstudent, IT Projektmanagement und PMO",Karlsruhe,JobTeaser,rejected,drafts/dmTECH Karlsruhe Werkstudent IT Projektmanagement PMO/
 8/26/26,Reply Deutschland SE,"Werkstudent, fuer AI Data Engineering und Tool-Entwicklung",Duesseldorf or Berlin,JobTeaser,applied,drafts/Reply Duesseldorf Berlin Werkstudent AI Data Engineering Tool Entwicklung/
 8/26/26,Rohde und Schwarz GmbH und Co. KG,"Werkstudent, Data Analytics und Data Science",Memmingen,Company Page,Not listed Anymore,drafts/Rohde Schwarz Memmingen Werkstudent Data Analytics Data Science/
 8/26/26,Volkswagen Group,"Praktikum or Abschlussarbeit, Customer Data Analytics und AI",Wolfsburg,Company Page,applied,drafts/Volkswagen Wolfsburg Praktikum Abschlussarbeit Customer Data Analytics AI/
-8/26/26,Kaufland,"Praktikant, Data Science",Heilbronn,Company Page,rejected,drafts/Kaufland Heilbronn Praktikant Data Science/
+8/26/26,Kaufland,"Praktikant, Data Science",Heilbronn,Company Page,applied,drafts/Kaufland Heilbronn Praktikant Data Science/
 8/27/26,Cinemo GmbH,"Working Student, GenAI / LLM Evaluation, Agentic AI / NLP",Karlsruhe,StepStone,applied,drafts/Cinemo Karlsruhe Working Student GenAI LLM Evaluation Agentic AI NLP/
 8/27/26,SAP,"Working Student, Signavio Next Development, Agentic AI",Berlin,Company Page,Not listed Anymore,drafts/SAP Berlin Working Student Signavio Next Development Agentic AI/
 8/27/26,Mercedes-Benz Group,"Werkstudent, Applied AI und Process Automation",Sindelfingen,Company Page,Not listed Anymore,drafts/Mercedes-Benz Group Sindelfingen Werkstudent Applied AI Process Automation/
@@ -189,12 +189,11 @@ date,company,role,location,source,status,draft_path
 ,appliedAI Initiative GmbH,"Working Student, AI Engineering and Product Development",Munich/Heilbronn,Company Page,applied,drafts/appliedAI Munich Heilbronn Working Student AI Engineering Product Development/
 ,KontextWork GbR,"Werkstudent, KI Engineer Generative KI und LLM",Hannover,StepStone,Not listed Anymore,drafts/KontextWork Hannover Werkstudent KI Engineer Generative KI LLM/
 ,Rohde und Schwarz GmbH und Co. KG,"Werkstudent, Agentic AI Experiments",Teisnach,Company Page,applied,drafts/Rohde Schwarz Teisnach Werkstudent Agentic AI Experiments/
-9/7/26,Mercedes-Benz Tech Innovation,"Werkstudent, Machine Learning Engineering",Karlsruhe,StepStone,applied,drafts/MBTI Karlsruhe Werkstudent Machine Learning Engineering/
-9/7/26,Generali Deutschland AG,"Werkstudent, Machine Learning Engineering",Saarbruecken,Xing,applied,drafts/Generali Saarbruecken Werkstudent Machine Learning Engineering/
-9/7/26,EXXETA,"Werkstudent, AI und LLM Engineering",Muenchen,Xing,applied,drafts/EXXETA Muenchen Werkstudent AI LLM Engineering/
-9/7/26,Merantix Momentum,"Working Student, AI Full Stack Engineer",Berlin,Company Page,applied,drafts/Merantix Momentum Berlin Working Student AI Full Stack Engineer/
-9/6/26,Mi-Jack Europe GmbH,"Pflichtpraktikant, Entwicklung von AI Agents",Karlsruhe,StepStone,applied,drafts/Mi-Jack Europe Karlsruhe Pflichtpraktikant AI Agents/
-9/6/26,appliedAI Initiative GmbH,"Working Student, AI Engineering and Product Development",Munich/Heilbronn,Company Page,applied,drafts/appliedAI Munich Heilbronn Working Student AI Engineering Product Development/
-9/6/26,KontextWork GbR,"Werkstudent, KI Engineer Generative KI und LLM",Hannover,StepStone,Not listed Anymore,drafts/KontextWork Hannover Werkstudent KI Engineer Generative KI LLM/
-9/6/26,Rohde und Schwarz GmbH und Co. KG,"Werkstudent, Agentic AI Experiments",Teisnach,Company Page,applied,drafts/Rohde Schwarz Teisnach Werkstudent Agentic AI Experiments/
-9/8/26,Estateanfrage Inh. Fabian Kroner,"Werkstudent AI Engineer (m/w/d)",München,StepStone,drafted,drafts/Estateanfrage Muenchen Werkstudent AI Engineer/
+9/7/26,Mercedes-Benz Tech Innovation,"Werkstudent, Machine Learning Engineering",Karlsruhe,StepStone,drafted,drafts/MBTI Karlsruhe Werkstudent Machine Learning Engineering/
+9/7/26,Generali Deutschland AG,"Werkstudent, Machine Learning Engineering",Saarbruecken,Xing,drafted,drafts/Generali Saarbruecken Werkstudent Machine Learning Engineering/
+9/7/26,EXXETA,"Werkstudent, AI und LLM Engineering",Muenchen,Xing,drafted,drafts/EXXETA Muenchen Werkstudent AI LLM Engineering/
+9/7/26,Merantix Momentum,"Working Student, AI Full Stack Engineer",Berlin,Company Page,drafted,drafts/Merantix Momentum Berlin Working Student AI Full Stack Engineer/
+9/6/26,Mi-Jack Europe GmbH,"Pflichtpraktikant, Entwicklung von AI Agents",Karlsruhe,StepStone,drafted,drafts/Mi-Jack Europe Karlsruhe Pflichtpraktikant AI Agents/
+9/6/26,appliedAI Initiative GmbH,"Working Student, AI Engineering and Product Development",Munich/Heilbronn,Company Page,drafted,drafts/appliedAI Munich Heilbronn Working Student AI Engineering Product Development/
+9/6/26,KontextWork GbR,"Werkstudent, KI Engineer Generative KI und LLM",Hannover,StepStone,drafted,drafts/KontextWork Hannover Werkstudent KI Engineer Generative KI LLM/
+9/6/26,Rohde und Schwarz GmbH und Co. KG,"Werkstudent, Agentic AI Experiments",Teisnach,Company Page,drafted,drafts/Rohde Schwarz Teisnach Werkstudent Agentic AI Experiments/
