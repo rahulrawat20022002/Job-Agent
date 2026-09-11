@@ -159,7 +159,7 @@ date,company,role,location,source,status,draft_path
 8/22/26,logen.ai,"Werkstudent, AI Agent Developer",Berlin,Other,rejected,drafts/logen.ai Berlin Werkstudent AI Agent Developer/
 8/22/26,Schaeffler Technologies AG und Co. KG,"Werkstudent, KI-Agenten-Entwicklung im Projektmanagement",Herzogenaurach,Company Page,rejected,drafts/Schaeffler Herzogenaurach Werkstudent KI Agenten Entwicklung Projektmanagement/
 8/23/26,ADAC,"Werkstudent, Data and AI Solutions",Muenchen,StepStone,rejected,drafts/ADAC Muenchen Werkstudent Data AI Solutions/
-8/23/26,Rosenberger Hochfrequenztechnik GmbH und Co. KG,"Werkstudent, fuer KI Projekte",Fridolfing,StepStone,applied,drafts/Rosenberger Fridolfing Werkstudent KI Projekte/
+8/23/26,Rosenberger Hochfrequenztechnik GmbH und Co. KG,"Werkstudent, fuer KI Projekte",Fridolfing,StepStone,rejected,drafts/Rosenberger Fridolfing Werkstudent KI Projekte/
 8/23/26,DELO Industrie Klebstoffe GmbH und Co. KGaA,"Werkstudent, IT mit Schwerpunkt Kuenstliche Intelligenz",Windach bei Muenchen,StepStone,rejected,drafts/DELO Windach Werkstudent IT KI/
 8/23/26,nerou GmbH,"Werkstudent, Data Science",Berlin,LinkedIn,applied,drafts/nerou Berlin Werkstudent Data Science/
 8/24/26,KPMG Deutschland,"Werkstudent, Business Intelligence und Analytics",Berlin,LinkedIn,rejected,drafts/KPMG Berlin Werkstudent Business Intelligence Analytics/
@@ -191,12 +191,15 @@ date,company,role,location,source,status,draft_path
 ,Rohde und Schwarz GmbH und Co. KG,"Werkstudent, Agentic AI Experiments",Teisnach,Company Page,applied,drafts/Rohde Schwarz Teisnach Werkstudent Agentic AI Experiments/
 9/7/26,Mercedes-Benz Tech Innovation,"Werkstudent, Machine Learning Engineering",Karlsruhe,StepStone,applied,drafts/MBTI Karlsruhe Werkstudent Machine Learning Engineering/
 9/7/26,Generali Deutschland AG,"Werkstudent, Machine Learning Engineering",Saarbruecken,Xing,applied,drafts/Generali Saarbruecken Werkstudent Machine Learning Engineering/
-9/7/26,EXXETA,"Werkstudent, AI und LLM Engineering",Muenchen,Xing,applied,drafts/EXXETA Muenchen Werkstudent AI LLM Engineering/
+9/7/26,EXXETA,"Werkstudent, AI und LLM Engineering",Muenchen,Xing,rejected,drafts/EXXETA Muenchen Werkstudent AI LLM Engineering/
 9/7/26,Merantix Momentum,"Working Student, AI Full Stack Engineer",Berlin,Company Page,applied,drafts/Merantix Momentum Berlin Working Student AI Full Stack Engineer/
 9/6/26,Mi-Jack Europe GmbH,"Pflichtpraktikant, Entwicklung von AI Agents",Karlsruhe,StepStone,applied,drafts/Mi-Jack Europe Karlsruhe Pflichtpraktikant AI Agents/
 9/6/26,appliedAI Initiative GmbH,"Working Student, AI Engineering and Product Development",Munich/Heilbronn,Company Page,rejected,drafts/appliedAI Munich Heilbronn Working Student AI Engineering Product Development/
 9/6/26,KontextWork GbR,"Werkstudent, KI Engineer Generative KI und LLM",Hannover,StepStone,Not listed Anymore,drafts/KontextWork Hannover Werkstudent KI Engineer Generative KI LLM/
 9/6/26,Rohde und Schwarz GmbH und Co. KG,"Werkstudent, Agentic AI Experiments",Teisnach,Company Page,applied,drafts/Rohde Schwarz Teisnach Werkstudent Agentic AI Experiments/
 9/8/26,Estateanfrage Inh. Fabian Kroner,"Werkstudent AI Engineer (m/w/d)",München,StepStone,rejected,drafts/Estateanfrage Muenchen Werkstudent AI Engineer/
-9/8/26,Estateanfrage Inh. Fabian Kroner,"Werkstudent AI Engineer (m/w/d)",München,StepStone,drafted,drafts/Estateanfrage Muenchen Werkstudent AI Engineer/
+9/8/26,Estateanfrage Inh. Fabian Kroner,"Werkstudent AI Engineer (m/w/d)",München,StepStone,rejected,drafts/Estateanfrage Muenchen Werkstudent AI Engineer/
 9/7/26,Deutsche Bank,"Internship, Technology, Data and Innovation 2027",Frankfurt am Main,LinkedIn,Not listed Anymore,drafts/Deutsche Bank Frankfurt Internship Technology Data Innovation 2027/
+9/11/26,FZI Forschungszentrum Informatik,"Masterarbeit, Evaluation and Verification of AI Generated Driving Scenarios Using Scenario Dreamer",Karlsruhe,Xing,drafted,drafts/FZI Karlsruhe Masterarbeit Evaluation Verification AI Generated Driving Scenarios/
+9/11/26,ProSiebenSat.1 Careers,"Working Student, AI Engineer",Muenchen,StepStone,drafted,drafts/ProSiebenSat1 Muenchen Working Student AI Engineer/
+9/11/26,iLert GmbH,"Working Student or Intern, AI Product Engineer",Cologne,StepStone,drafted,drafts/iLert Cologne Working Student Intern AI Product Engineer/
