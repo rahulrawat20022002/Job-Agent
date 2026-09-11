@@ -41,7 +41,7 @@ date,company,role,location,source,status,draft_path
 7/10/26,Bosch,"Master Thesis, Ambient Sensing for Digital Health Biomarkers",Renningen,Indeed,rejected,drafts/Bosch Digital Health Biomarkers/
 7/10/26,Vanderlande Logistics,"Masterarbeit, AI and Vision Object Detection and Tracking",Konstanz,Indeed,rejected,drafts/Vanderlande Master Thesis AI Vision/
 7/10/26,Mercedes-Benz Group,"Masterarbeit, KI basierte Analyse von Kommunikationsdaten in Diagnoseprozessen",Sindelfingen,Indeed,rejected,drafts/Mercedes-Benz Group Master Thesis KI Kommunikation/
-7/10/26,TOYOTA GAZOO Racing Europe,"Master Thesis, Computer Vision for Motorsport Video Analysis",Köln,Indeed,applied,drafts/Toyota Gazoo Racing Motorsport CV/
+7/10/26,TOYOTA GAZOO Racing Europe,"Master Thesis, Computer Vision for Motorsport Video Analysis",Köln,Indeed,rejected,drafts/Toyota Gazoo Racing Motorsport CV/
 7/10/26,Schwarz Digits,"Praktikum or Werkstudent, Computer Vision and Deep Learning",Bad Friedrichshall,Indeed,Not listed Anymore,drafts/Schwarz Digits/
 7/10/26,Sparkassenverband Bayern,"Werkstudent, Sparkassenpruefung and Wirtschaftspruefung with Schwerpunkt KI und Datenanalyse",München,Indeed,applied,drafts/Sparkassenverband Bayern/
 7/10/26,BarmeniaGothaer,"Werkstudent, Business Intelligence SAP Data Warehouse BW/4HANA",Köln,Indeed,rejected,drafts/BarmeniaGothaer/
@@ -137,7 +137,7 @@ date,company,role,location,source,status,draft_path
 8/15/26,BSH Home Appliances Group,"Working Student, Engineering Data Analytics and Classification",Munich,LinkedIn,rejected,drafts/BSH Home Appliances Munich Working Student Data Analytics Classification/
 8/15/26,viadee Unternehmensberatung AG,"Werkstudent, Data Science und Process Mining",Koeln,Xing,rejected,drafts/viadee Unternehmensberatung Koeln Werkstudent Data Science Process Mining/
 8/15/26,BMW Group,"Werkstudent, Data Science und KI Tool Entwicklung fuer Qualitaetsanalyse",Muenchen,BMW Career Page,applied,drafts/BMW Muenchen Werkstudent Data Science KI Tool Qualitaetsanalyse/
-8/15/26,KfW Bankengruppe,"Werkstudent, IT Data Science und KI",Frankfurt,Xing,applied,drafts/KfW Bankengruppe Frankfurt Werkstudent IT Data Science KI/
+8/15/26,KfW Bankengruppe,"Werkstudent, IT Data Science und KI",Frankfurt,Xing,rejected,drafts/KfW Bankengruppe Frankfurt Werkstudent IT Data Science KI/
 8/15/26,Allianz Insurance,"Working Student, Data Science",Munich,Xing,applied,drafts/Allianz Insurance Muenchen Working Student Data Science/
 8/16/26,Siemens Energy,"Werkstudent, KI-basierte Optimierungsinitiativen",Germany,Company Page,applied,drafts/Siemens Energy Werkstudent KI-basierte Optimierungsinitiativen/
 8/16/26,Siemens AG,"Werkstudent, Data Science im operativen Service",Germany,Company Page,rejected,drafts/Siemens AG Werkstudent Data Science operativer Service/
@@ -179,14 +179,14 @@ date,company,role,location,source,status,draft_path
 8/27/26,SAP,"Working Student, Signavio Next Development, Agentic AI",Berlin,Company Page,Not listed Anymore,drafts/SAP Berlin Working Student Signavio Next Development Agentic AI/
 8/27/26,Mercedes-Benz Group,"Werkstudent, Applied AI und Process Automation",Sindelfingen,Company Page,Not listed Anymore,drafts/Mercedes-Benz Group Sindelfingen Werkstudent Applied AI Process Automation/
 8/27/26,Leopold KOSTAL GmbH und Co. KG,"Werkstudent, fuer KI Entwicklung, Artificial Intelligence Development",Luedenscheid,Company Page,Not listed Anymore,drafts/KOSTAL Luedenscheid Werkstudent KI Entwicklung Artificial Intelligence Development/
-8/28/26,Isar Aerospace SE,"Working Student, AI Platform and Enablement",Parsdorf Bavaria,Company Page,applied,drafts/Isar Aerospace Parsdorf Working Student AI Platform Enablement/
+8/28/26,Isar Aerospace SE,"Working Student, AI Platform and Enablement",Parsdorf Bavaria,Company Page,rejected,drafts/Isar Aerospace Parsdorf Working Student AI Platform Enablement/
 8/28/26,Mercedes-Benz Tech Innovation GmbH,"Werkstudent AI Security, Research und Evaluation","Ulm, Karlsruhe, Stuttgart, Berlin",LinkedIn,Not listed Anymore,drafts/MBTI Ulm Werkstudent AI Security Research Evaluation/
 8/28/26,Siemens Healthineers AG,Werkstudent KI gestuetzte Automatisierung bei Research und Development,Kemnath,LinkedIn,Not listed Anymore,drafts/Siemens Healthineers Kemnath Werkstudent KI Automatisierung Research Development/
 9/5/26,Mercedes-Benz Tech Innovation,"Werkstudent, AI Agents and Robotics Platform",Ulm/Stuttgart/Karlsruhe,StepStone,applied,drafts/MBTI Ulm Stuttgart Karlsruhe Werkstudent AI Agents Robotics Platform/
 9/5/26,Beilmann Marketing GmbH,"Werkstudent, KI Automatisierung und interne Tools",Berlin,Xing,applied,drafts/Beilmann Marketing Berlin Werkstudent KI Automatisierung interne Tools/
 9/5/26,ETG-Elektronik GmbH,"Praktikant or Werkstudent, AI Systems and Generative AI",Weiterstadt,Other,applied,drafts/ETG-Elektronik Weiterstadt Praktikant Werkstudent AI Systems Generative AI/
 ,Mi-Jack Europe GmbH,"Pflichtpraktikant, Entwicklung von AI Agents",Karlsruhe,StepStone,applied,drafts/Mi-Jack Europe Karlsruhe Pflichtpraktikant AI Agents/
-,appliedAI Initiative GmbH,"Working Student, AI Engineering and Product Development",Munich/Heilbronn,Company Page,applied,drafts/appliedAI Munich Heilbronn Working Student AI Engineering Product Development/
+,appliedAI Initiative GmbH,"Working Student, AI Engineering and Product Development",Munich/Heilbronn,Company Page,rejected,drafts/appliedAI Munich Heilbronn Working Student AI Engineering Product Development/
 ,KontextWork GbR,"Werkstudent, KI Engineer Generative KI und LLM",Hannover,StepStone,Not listed Anymore,drafts/KontextWork Hannover Werkstudent KI Engineer Generative KI LLM/
 ,Rohde und Schwarz GmbH und Co. KG,"Werkstudent, Agentic AI Experiments",Teisnach,Company Page,applied,drafts/Rohde Schwarz Teisnach Werkstudent Agentic AI Experiments/
 9/7/26,Mercedes-Benz Tech Innovation,"Werkstudent, Machine Learning Engineering",Karlsruhe,StepStone,applied,drafts/MBTI Karlsruhe Werkstudent Machine Learning Engineering/
@@ -194,7 +194,7 @@ date,company,role,location,source,status,draft_path
 9/7/26,EXXETA,"Werkstudent, AI und LLM Engineering",Muenchen,Xing,applied,drafts/EXXETA Muenchen Werkstudent AI LLM Engineering/
 9/7/26,Merantix Momentum,"Working Student, AI Full Stack Engineer",Berlin,Company Page,applied,drafts/Merantix Momentum Berlin Working Student AI Full Stack Engineer/
 9/6/26,Mi-Jack Europe GmbH,"Pflichtpraktikant, Entwicklung von AI Agents",Karlsruhe,StepStone,applied,drafts/Mi-Jack Europe Karlsruhe Pflichtpraktikant AI Agents/
-9/6/26,appliedAI Initiative GmbH,"Working Student, AI Engineering and Product Development",Munich/Heilbronn,Company Page,applied,drafts/appliedAI Munich Heilbronn Working Student AI Engineering Product Development/
+9/6/26,appliedAI Initiative GmbH,"Working Student, AI Engineering and Product Development",Munich/Heilbronn,Company Page,rejected,drafts/appliedAI Munich Heilbronn Working Student AI Engineering Product Development/
 9/6/26,KontextWork GbR,"Werkstudent, KI Engineer Generative KI und LLM",Hannover,StepStone,Not listed Anymore,drafts/KontextWork Hannover Werkstudent KI Engineer Generative KI LLM/
 9/6/26,Rohde und Schwarz GmbH und Co. KG,"Werkstudent, Agentic AI Experiments",Teisnach,Company Page,applied,drafts/Rohde Schwarz Teisnach Werkstudent Agentic AI Experiments/
 9/8/26,Estateanfrage Inh. Fabian Kroner,"Werkstudent AI Engineer (m/w/d)",München,StepStone,drafted,drafts/Estateanfrage Muenchen Werkstudent AI Engineer/
