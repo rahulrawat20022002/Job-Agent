@@ -26,7 +26,48 @@ Both agents pull the latest repo at run start. Only Cowork pushes. OpenClaw neve
 5. **Report exactly what happened.** Every digest lists successes, halts, skips, drift, and any tool that failed. Silent downgrades to a lesser deliverable are forbidden; the previous silent downgrade to Markdown only counts as a rule violation, not a limitation to accept.
 6. **Never send LinkedIn messages automatically.** Ever. LinkedIn's terms of service ban it and Rah's account is not disposable. OpenClaw pastes messages into the compose window and stops there. Cowork never opens a LinkedIn compose window at all.
 7. **Never enter passwords, complete account creation, accept payment, sign agreements, or provide a salary number.** This holds for both agents in every context.
-8. **Historical dated rules remain binding.** Rules referenced in past digests by date (28 July 2026 yield reset, 14 July 2026 status source of truth, 11 July 2026 reconciliation, 3 July 2026 v3 CV template, 4 August 2026 CV three-page hard cap (superseded by 19 August 2026 two page cap), 11 August 2026 CoverLetter PDF required, 12 July 2026 warm outreach, 20 July 2026 language match, 13 August 2026 auto-apply platform native and DataTransfer upload, 2 August 2026 SS Engineers two Experience entries, 18 July 2026 XYZ bullet format, 19 July 2026 Lebenslauf CV layout, 19 August 2026 CV content rules: no hyphens, no parentheses in bullets, Languages EN+DE only, German wording locked to "B1, in progress" / "B1, laufend", no page numbers/headers/footers, two page hard cap, 24 August 2026 SS Engineers visibility switch, 25 August 2026 JobTeaser search source, 26 August 2026 target roles narrowed to AI Engineer and AI Evaluation, 26 August 2026 Bachelor Thesis visibility switch default off) still apply. When in doubt about the exact text of a historical rule, consult the digest that first cited it or the routing notes in master-projects.md.
+8. **Historical dated rules remain binding.** Rules referenced in past digests by date (28 July 2026 yield reset, 14 July 2026 status source of truth, 11 July 2026 reconciliation, 3 July 2026 v3 CV template, 4 August 2026 CV three-page hard cap (superseded by 19 August 2026 two page cap), 11 August 2026 CoverLetter PDF required, 12 July 2026 warm outreach, 20 July 2026 language match, 13 August 2026 auto-apply platform native and DataTransfer upload, 2 August 2026 SS Engineers two Experience entries, 18 July 2026 XYZ bullet format, 19 July 2026 Lebenslauf CV layout, 19 August 2026 CV content rules: no hyphens, no parentheses in bullets, Languages EN+DE only, German wording locked to "B1, in progress" / "B1, laufend", no page numbers/headers/footers, two page hard cap, 24 August 2026 SS Engineers visibility switch, 25 August 2026 JobTeaser search source, 26 August 2026 target roles narrowed to AI Engineer and AI Evaluation, 26 August 2026 Bachelor Thesis visibility switch default off, 17 September 2026 plain language explanation pattern) still apply. When in doubt about the exact text of a historical rule, consult the digest that first cited it or the routing notes in master-projects.md.
+9. **Explain in plain language, every time.** See the dedicated 17 September 2026 rule below for the exact pattern. This applies to chat replies, digest summaries, and any other explanation either agent gives Rah.
+
+---
+
+## 17 September 2026 rule: plain language explanation pattern
+
+Rah asked for this after finding a chat explanation full of internal jargon
+("reconciliation," "invariant #3," "dual-write") hard to follow. Both agents
+must explain themselves to Rah using this pattern, every time, no exceptions:
+
+1. **Lead with the one-sentence bottom line.** What happened, in plain
+   words, before any detail. ("Notion is correct as-is. I did not need to
+   change anything in it.")
+2. **List findings as short, concrete bullets, not prose paragraphs.** Each
+   bullet says what was found and what was done about it, in everyday
+   language. No internal rule numbers, no jargon like "reconciliation,"
+   "drift," "dual-write," or "invariant #N" unless Rah used the term
+   first. If a technical word is unavoidable, define it inline in five
+   words or fewer.
+3. **Separate "what I did" from "what I could not decide for you."** Do not
+   bury a decision Rah needs to make inside a wall of status text. Pull it
+   out into its own clearly labeled bullet or paragraph.
+4. **When a decision is needed, ask with labeled options (A/B/C), not an
+   open-ended "let me know what you think."** Make each option concrete
+   enough that Rah can answer in one word.
+5. **Keep it short.** If the plain-language version of an explanation is
+   longer than the jargon version, it is not done yet; cut it down.
+
+This does not relax any other rule (still report every halt, skip, and
+drift per shared invariant #5) — it changes HOW that reporting reads, not
+WHAT gets reported. Full technical detail (exact invariant numbers, file
+paths, SQL diffs) still belongs in the written Job_Digest_*.md file for
+the audit trail; the chat reply and the digest's own top summary should
+read like the plain-language pattern above, with jargon-heavy detail kept
+to the digest body further down.
+
+**Worked example (from the 17 Sep 2026 run):** instead of "Reconciliation
+found one CSV/Notion drift item on invariant #1" the chat reply said
+"Your spreadsheet said one job was still 'drafted,' but Notion already
+had the right answer (not listed anymore). I fixed the spreadsheet to
+match Notion." Same fact, no jargon.
 
 ---
 
