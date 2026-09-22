@@ -65,16 +65,27 @@
   Responsible AI Evaluation. Plain Data Engineer, Data Analyst, Business
   Analyst, Data Scientist, and general Researcher postings are OUT of
   scope unless the posting itself reads squarely as an AI Engineer or AI
-  Evaluation role. Master Thesis stays in scope as a work type (see Work
-  types below), not as a standalone role category — a Master Thesis
-  posting must still be AI Engineer or AI Evaluation flavored to qualify.
+  Evaluation role. Master Thesis is no longer searched as a work type at
+  all per the 22 September 2026 work types narrowing below.
 - **Location:** anywhere in Germany; remote anywhere in EU
-- **Work types:** Werkstudent / part-time; mandatory internship only (Pflichtpraktikum required by the study programme); Master Thesis (Masterarbeit / Abschlussarbeit, actively searched as its own category). Full-time and Junior full roles stay out of scope.
-- **Pay:** not a filter. Include unpaid and low-paid roles, including unpaid mandatory internships. Do not rank or drop by compensation.
+- **Work types, 22 September 2026 narrowing:** Werkstudent / part-time and
+  Full-time / Junior full roles are IN scope. Per Rah's live instruction on
+  22 September 2026, mandatory internship (Pflichtpraktikum required by the
+  study programme) and Master Thesis (Masterarbeit / Abschlussarbeit) are
+  now OUT of scope — Rah's enrollment window for those has closed and he
+  cannot enroll for them anymore. Voluntary internship (freiwilliges
+  Praktikum) is now IN scope, reversing the prior drop rule below, since
+  Rah can still take one of those. This is a scope narrowing/reopening, not
+  a data deletion: historical applied-log.csv and Notion rows already
+  logged under Pflichtpraktikum or Masterarbeit remain untouched and keep
+  their existing Status. Cowork must not widen scope back to mandatory
+  internship or Master Thesis on its own judgement; only an explicit
+  instruction from Rah reopens them.
+- **Pay:** not a filter. Include unpaid and low-paid roles, including unpaid voluntary internships. Do not rank or drop by compensation.
 - **German level:** B1, currently in progress — accept German-language listings, but flag the required German level (none / A2 / B1 / B2 / C1) per posting and compare it against this current B1 level
 - **Base:** Mannheim — distance/commute is NOT a scoring factor. Rank by geographic tier first (all of Germany, remote or on-site, ahead of the rest of Europe), then by recency and "Best for" overlap. Note location and any relocation/on-site expectation in the digest as plain information only.
 - **Search sources:** do not rely on Indeed alone. Also try StepStone, Xing, Glassdoor, LinkedIn Jobs, JobTeaser (jobteaser.com), and company career pages (via Claude in Chrome when connected). State in the digest which sources were reachable each run.
-- **Drop from results:** dual-study / Duales Studium / apprenticeship programmes; recruiter "Quereinsteiger / career-changer" ads; voluntary internships (freiwilliges Praktikum) — only mandatory Pflichtpraktikum internships are in scope
+- **Drop from results:** dual-study / Duales Studium / apprenticeship programmes; recruiter "Quereinsteiger / career-changer" ads; mandatory internship (Pflichtpraktikum) and Master Thesis (Masterarbeit / Abschlussarbeit) postings per the 22 September 2026 work types narrowing above.
 
 ---
 
