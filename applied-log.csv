@@ -203,7 +203,7 @@ date,company,role,location,source,status,draft_path
 9/11/26,FZI Forschungszentrum Informatik,"Masterarbeit, Evaluation and Verification of AI Generated Driving Scenarios Using Scenario Dreamer",Karlsruhe,Xing,applied,drafts/FZI Karlsruhe Masterarbeit Evaluation Verification AI Generated Driving Scenarios/
 9/11/26,ProSiebenSat.1 Careers,"Working Student, AI Engineer",Muenchen,StepStone,Not listed Anymore,drafts/ProSiebenSat1 Muenchen Working Student AI Engineer/
 9/11/26,iLert GmbH,"Working Student or Intern, AI Product Engineer",Cologne,StepStone,Not listed Anymore,drafts/iLert Cologne Working Student Intern AI Product Engineer/
-9/16/26,Syneco Trading GmbH,"Masterarbeit, Agentic AI und Generative AI zur Optimierung energiewirtschaftlicher Prozesse",Muenchen,Xing,drafted,drafts/Syneco Trading Muenchen Masterarbeit Agentic AI Generative AI Energiewirtschaft/
+9/16/26,Syneco Trading GmbH,"Masterarbeit, Agentic AI und Generative AI zur Optimierung energiewirtschaftlicher Prozesse",Muenchen,Xing,applied,drafts/Syneco Trading Muenchen Masterarbeit Agentic AI Generative AI Energiewirtschaft/
 9/16/26,Charles Real Estate GmbH,"AI Systems Engineer, Working Student",Berlin,StepStone,Not listed Anymore,drafts/Charles Real Estate Berlin AI Systems Engineer Working Student/
 9/16/26,Temedica GmbH,"Working Student, AI and Agentic Engineering",Muenchen,Company Page,applied,drafts/Temedica Muenchen Working Student AI Agentic Engineering/
 9/16/26,SAP,"Intern, Thesis or Working Student, Evaluating and Improving LLM based SE Solutions in SAP HANA",Walldorf,Company Page,Not listed Anymore,drafts/SAP Walldorf Evaluating Improving LLM SE Solutions SAP HANA/
@@ -214,7 +214,10 @@ date,company,role,location,source,status,draft_path
 9/20/26,Control Expert GmbH,"Working Student QA Engineer, AI / LLM Systems",Langenfeld Rheinland,StepStone,Not listed Anymore,drafts/Control Expert Langenfeld Working Student QA Engineer AI LLM Systems/
 9/20/26,FUNKE Mediengruppe,"Werkstudent Workflow Automation n8n, Agentic AI",Hamburg,StepStone,Not listed Anymore,drafts/FUNKE Mediengruppe Hamburg Werkstudent Workflow Automation Agentic AI/
 9/20/26,Vector Informatik GmbH,"Werkstudent, AI driven CI/CD Automation",Stuttgart/Karlsruhe,JobTeaser,Not listed Anymore,drafts/Vector Informatik Stuttgart Karlsruhe Werkstudent AI CI CD Automation/
-9/22/26,Syneco Trading GmbH,"Masterarbeit, Agentic AI und Generative AI zur Optimierung energiewirtschaftlicher Prozesse",Muenchen,Company Page,drafted,drafts/Syneco Trading Thuga Masterarbeit Agentic AI Generative AI Energiewirtschaft Muenchen/
-9/22/26,Web Computing GmbH,"Werkstudent, AI Engineer",Muenster,Company Page,drafted,drafts/Web Computing Muenster Werkstudent AI Engineer/
-9/22/26,BLACKFIELD AI,"Werkstudent, AI Engineer",Bremen,Company Page,drafted,drafts/BLACKFIELD AI Bremen Werkstudent AI Engineer/
-9/22/26,Modern Drive Technology GmbH,"Werkstudent, AI Engineering",Neumarkt in der Oberpfalz,LinkedIn,drafted,drafts/Modern Drive Technology Neumarkt Werkstudent AI Engineering/
+9/22/26,Syneco Trading GmbH,"Masterarbeit, Agentic AI und Generative AI zur Optimierung energiewirtschaftlicher Prozesse",Muenchen,Company Page,applied,drafts/Syneco Trading Thuga Masterarbeit Agentic AI Generative AI Energiewirtschaft Muenchen/
+9/22/26,Web Computing GmbH,"Werkstudent, AI Engineer",Muenster,Company Page,applied,drafts/Web Computing Muenster Werkstudent AI Engineer/
+9/22/26,BLACKFIELD AI,"Werkstudent, AI Engineer",Bremen,Company Page,rejected,drafts/BLACKFIELD AI Bremen Werkstudent AI Engineer/
+9/22/26,Modern Drive Technology GmbH,"Werkstudent, AI Engineering",Neumarkt in der Oberpfalz,LinkedIn,applied,drafts/Modern Drive Technology Neumarkt Werkstudent AI Engineering/
+9/24/26,PRODIGY Consulting GmbH,"Werkstudent, AI Experimenter fuer LLM und Dokumentenverarbeitung",Deutschlandweit Remote,Other,drafted,drafts/PRODIGY Consulting Remote Werkstudent AI Experimenter LLM Document/
+9/24/26,coac GmbH,"Werkstudent, Softwareentwicklung und KI",Berlin/Koeln,Company Page,drafted,drafts/coac Berlin Koeln Werkstudent Softwareentwicklung KI/
+9/24/26,Reply Deutschland SE,"Werkstudent, AI Business Solutions und Agents",Frankfurt am Main,JobTeaser,drafted,drafts/Reply Deutschland Werkstudent AI Business Solutions Agents/
