@@ -93,3 +93,22 @@ Not applicable this run — steps 4-6 (search, filter, score, tailor, render, du
 - **What I could not decide for you:** what to do with those 12 fake-looking "drafted" rows. Options: (A) have a future run actually search, tailor, and render real files for them and keep the rows, (B) delete/reset the rows since nothing real backs them — this would also let new drafting resume next run instead of pausing, or (C) leave them alone for now and I'll keep flagging them. Your call.
 
 Render toolchain is healthy and ready whenever normal drafting resumes.
+
+---
+
+## Addendum — 2026-09-28, later same day: email-driven status updates (Rah-requested)
+
+Rah asked live (in chat, not via the schedule) to check mail from the last 3-4 days and flip Notion status accordingly. Checked Gmail for all messages since 2026-09-24. Found 6 application-status messages; 5 were substantive (one was a routine "still in selection" hold, no status change):
+
+| Company | Role | Evidence | Old Status | New Status |
+|---|---|---|---|---|
+| Muenchener Verein Versicherungsgruppe | Werkstudent, Conversational AI | 28 Sep email from Felix Helmprecht: "wir Sie nicht in die engere Auswahl nehmen koennen" | applied | **rejected** |
+| Rohde und Schwarz GmbH und Co. KG | Werkstudent, Agentic AI Experiments (Teisnach, req 2086) | 28 Sep SuccessFactors auto-notification: "muessen wir dir fuer diese Position heute leider absagen" | applied | **rejected** |
+| Syneco Trading GmbH | Masterarbeit, Agentic AI und Generative AI zur Optimierung energiewirtschaftlicher Prozesse | 28 Sep Softgarden notification from Michael Fitzer: "muessen dir aber leider absagen" | applied | **rejected** |
+| Mi-Jack Europe GmbH | Pflichtpraktikant, Entwicklung von AI Agents | 28 Sep email from Hannah (HR-MiJackEU), after Rah clarified he could only take it as a voluntary (not mandatory) internship: "muessen wir Dir... heute fuer diese Position absagen" | applied | **rejected** |
+| Hirschmann Automation and Control GmbH (Belden) | Masterarbeit, Agentic Pentesting | 25 Sep email from Julia Rachinger: still in selection talks, update expected "spaetestens KW 42" (week of 12-18 Oct) | interviewing | **no change** — still pending, not a rejection or offer |
+
+Updated both Notion (Status field, plus a dated evidence line appended to each row's Notes) and applied-log.csv (mirror) for the 4 rejections. Did not touch the Belden/Hirschmann row since nothing has actually changed there yet.
+
+Everything else in the last 3-4 days was job-alert noise (LinkedIn/JobTeaser/Xing/StepStone marketing emails, a payslip notice, unrelated newsletters) or non-application correspondence (thesis supervision emails with Prof. Binh Vu at SRH) — no status action taken on those.
+
