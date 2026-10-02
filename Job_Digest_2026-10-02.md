@@ -9,7 +9,7 @@
 - Notion was not changed.
 
 ## What I could not decide for you
-- Notion has 9 drafted rows that are not in the spreadsheet (Atos, COBACK, Sopra Steria CSS, coac, PRODIGY, Reply AI Business Solutions, retorio, KontextWork, KWS, Ventum, SmartTECS; 11 total drafted in Notion, 2 of those are in the CSV list only by name mismatch). I did not invent spreadsheet rows for them, since I have no draft path or date evidence in this checkout. Option A: leave as is. Option B: next run adds them to the CSV from Notion.
+- All 11 drafted rows in Notion (Atos, COBACK, Sopra Steria CSS, coac, PRODIGY, Reply AI Business Solutions, retorio, KontextWork, KWS, Ventum, SmartTECS) are missing from the spreadsheet. After today's fixes the spreadsheet shows 0 drafted, so the two counts do not match. I did not invent spreadsheet rows, since I have no draft path or date evidence here. Option A: leave as is. Option B: next run adds them to the CSV from Notion.
 
 ## Transparency
 - Sources: none searched (paused). Tavily MCP failed to connect this run (not needed while paused).
