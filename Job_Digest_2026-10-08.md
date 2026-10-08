@@ -11,7 +11,7 @@
 - The spreadsheet is missing 9 of the 11 drafted roles in Notion (Ventum, SmartTECS, KWS SAAT, coac, PRODIGY, Reply AI Business Solutions, Atos, COBACK, Sopra Steria Agentic Coding). Their draft folders are not in this repo checkout, so I could not add them with proof. Retorio and KontextWork do have folders here, but the spreadsheet lists them as older "Not listed Anymore" rows.
   - A) Push the missing draft folders from wherever they live, then I add the rows next run.
   - B) Tell me to add the spreadsheet rows now without folders.
-- Backlog: 11 drafted, of which 5 are company-portal roles (needs Rah manually) and others flagged for German level. Submitting or withdrawing some will reopen drafting.
+- Backlog: 11 drafted, of which 9 are company-portal roles (Rah submits manually) and only 2 (retorio, KontextWork) are platform-native. Submitting or withdrawing some will reopen drafting.
 
 ## Technical notes
 - Gate: 11 drafted in Notion = hard pause (28 Jul 2026 gate). Notion reachable, no CSV fallback.
